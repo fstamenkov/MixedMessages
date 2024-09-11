@@ -1,10 +1,8 @@
-# Mixed messages plan
+# Fantasy sentence generator
 
-- have at least two arrays which will include random phrases or words
-- upon running the script, generate a random phrase.
+My idea was to generate sentences based on a fantasy setting for codecademy's mixed messages project.
 
-## Current ideas:
+Created a function that generates a random index for each array and used the indices for each of them to put together a sentence.
 
-- random horoscope
-- random fortune
-- random sentence with SVO structure
+## Example output:
+*Chimera Invokes Orb of Foresight*
